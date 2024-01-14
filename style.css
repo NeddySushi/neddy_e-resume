@@ -155,7 +155,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../searchicon.png);
+  background-image: url(../neddy_e-resume/searchicon.png);
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -190,7 +190,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../menu.png);
+  background-image: url(../neddy_e-resume/menu.png);
   background-size: 55px;
 }
 
@@ -576,7 +576,7 @@ a:focus {
 }
 
 .education_section .owl-carousel .owl-nav .owl-prev {
-  background-image: url(../images/prev.png);
+  background-image: url(../neddy_e-resume/images/prev.png);
   left: 50%;
   -webkit-transform: translateX(-102%);
           transform: translateX(-102%);
@@ -584,7 +584,7 @@ a:focus {
 
 .education_section .owl-carousel .owl-nav .owl-next {
   right: 50%;
-  background-image: url(../images/next.png);
+  background-image: url(../neddy_e-resume/images/next.png);
   -webkit-transform: translateX(102%);
           transform: translateX(102%);
 }
@@ -643,7 +643,7 @@ th{
 
 
 .target_section {
-  background-image: url(../targetbg.jpg);
+  background-image: url(../neddy_e-resume/targetbg.jpg);
   background-size: cover;
   color: #ffffff;
   text-align: center;
@@ -716,14 +716,7 @@ th{
   border-radius: 30px;
 }
 
-.contact_section .map_img-box {
-  width: 80%;
-  margin: 25px auto 0 auto;
-}
 
-.contact_section .map_img-box img {
-  width: 100%;
-}
 
 /* end contact section */
 .info_section {
