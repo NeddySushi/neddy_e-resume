@@ -73,7 +73,7 @@ body {
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image:  url(..neddybg.jpg) ;
+  background-image:  url(../neddybg.jpg) ;
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -82,7 +82,7 @@ body, html {height: 100%}
 .hero_area {
   height: 100vh;
   background-color: #b5caee;
-  background-image: url(..neddybg.jpg);
+  background-image: url(../neddybg.jpg);
   background-size: cover;
 }
 
