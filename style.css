@@ -73,7 +73,7 @@ body {
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image:  url(../images/neddy-bg.jpg) ;
+  background-image:  url(..neddybg.jpg) ;
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -82,7 +82,7 @@ body, html {height: 100%}
 .hero_area {
   height: 100vh;
   background-color: #b5caee;
-  background-image: url(../images/neddy-bg.jpg);
+  background-image: url(..neddybg.jpg);
   background-size: cover;
 }
 
@@ -155,7 +155,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon.png);
+  background-image: url(..searchicon.png);
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -190,7 +190,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  background-image: url(..menu.png);
   background-size: 55px;
 }
 
